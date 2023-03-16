@@ -49,7 +49,7 @@ class _MyHomePageState extends State<MyHomePage> {
             // GridView tab content Widget
             GridView.count(
               // Items in row
-              crossAxisCount: 3,
+              crossAxisCount: 2,
               // Vertical spacing between rows
               mainAxisSpacing: 5.0,
               // Horizontal spacing between columns
