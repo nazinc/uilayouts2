@@ -1,0 +1,4 @@
+#Thu Mar 16 16:34:24 SGT 2023
+base.0=C\:\\Nazim\\project\\workspace_flutter\\uilayouts\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
